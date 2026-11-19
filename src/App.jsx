@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowRight, BellRing, Check, Clock3, HeartHandshake, ShieldCheck, Smartphone, Menu, X, Instagram, Linkedin, Github } from 'lucide-react';
 
-const APK_FILE = '/remi.apk'; // Coloca el archivo APK dentro de public/ con este nombre.
+const APK_FILE = '/Remi.apk'; // Coloca el archivo APK dentro de public/ con este nombre.
 
 function App() {
   const [menuOpen, setMenuOpen] = React.useState(false);
